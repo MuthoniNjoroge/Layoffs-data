@@ -1,6 +1,6 @@
 # Layoffs-data
 ## Layoff dataset cleaning using MSQL
-![](663a1f1b0cf5b478f4d02962.mp4)
+![](https://www.pexels.com/photo/person-holding-white-printer-paper-8518626/)
 ### Introduction.
 I found this dataset while working on my project. It contains information on companies from all over the world that laid off their employees between 2020 and 2023, making it an excellent resource for improving my SQL skills
 ### Steps I followed while cleaning the data
