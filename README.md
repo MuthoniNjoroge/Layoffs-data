@@ -25,13 +25,16 @@ Then i trimmed off the spaces that were before and after the columns and made su
 the company names, industy names and country names were written correctly and were standard. 
 Next i had to change the date datatype from text to date formate since i imported it as text.
 
-![](trimming.png)----------![](date.png)
+![](date.png)------- ![](trimming.png)
+
 ## Step 4 WORKING WITH NULLS AND BLANKS.
 Here i transformed all the blanks spaces to nulls so that i could be able to work with them as nulls.
 Then i looked looked for the nulls in the industry column that could be populated by looking for companies that were in simiral industry and used joins, to join the ones that were null to the ones that were not null but simillar and this filled the up the nulls. 
+
 ![](nulls.png)
 
 Then i looked for the ones that could not be populated mostly the total_laid_off and the percentage_laid_off and deleted them.
+
 ![](deleting.pn)
 
 ## Step 5 DROPING THE UNNEEDED COLUMNS
