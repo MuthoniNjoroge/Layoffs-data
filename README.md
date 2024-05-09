@@ -31,7 +31,7 @@ Here i transformed all the blanks spaces to nulls so that i could be able to wor
 Then i looked looked for the nulls in the industry column that could be populated by looking for companies that were in simiral industry and used joins, to join the ones that were null to the ones that were not null but simillar and this filled the up the nulls. 
 ![](nulls.png)
 
-Then i lokked for the ones that could not be populated mostly the total_laid_off and the percentage_laid_off and deleted them.
+Then i looked for the ones that could not be populated mostly the total_laid_off and the percentage_laid_off and deleted them.
 ![](deleting.pn)
 
 ## Step 5 DROPING THE UNNEEDED COLUMNS
