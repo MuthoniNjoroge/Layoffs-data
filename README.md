@@ -12,9 +12,10 @@ I found this dataset while working on my project. It contains information on com
 i assumed that this was a real life work project, so i started by creating a dublicate table so that i could work on it with out  changing the origal table.
 ![](dublicate.png)
 ## step 2 REMOVING DUBLICATES
-I first created a row_number column since the table had no unique_key column i could use.I did this by using a window function 
+I first created a row_number column since the table had no unique_key column i could use.I did this by using a window function
+
 Then i searched for the columns that had duplicates and deleted the dublicates.
-![]()
+![](dublicate.png)
 ## Step 3 STANDARDZING THE DATA
 Then i trimmed off the spaces that were before and after the columns and made sure all the columns were in the right format and 
 ![]()
