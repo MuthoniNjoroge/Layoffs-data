@@ -10,7 +10,7 @@ I found this dataset while working on my project. It contains information on com
 4. Removed unused columns
 ## Step 1 CREATING A DUBLICATE TABLE 
 i assumed that this was a real life work project, so i started by creating a dublicate table so that i could work on it with out  changing the origal table.
-![]()
+![](dublicate.png)
 ## step 2 REMOVING DUBLICATES
 I first created a row_number column since the table had no unique_key column i could use.I did this by using a window function 
 Then i searched for the columns that had duplicates and deleted the dublicates.
