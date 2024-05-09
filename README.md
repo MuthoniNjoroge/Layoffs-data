@@ -1,5 +1,6 @@
 # Layoffs-data
 ## Layoff dataset cleaning using MSQL
+![]()
 ### Introduction.
 I came across this data while working on my project, and it was the best choice to improve my SQL skills.
 ### Steps I followed while cleaning the data
